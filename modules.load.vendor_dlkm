@@ -1,3 +1,4 @@
+mi_thermal_interface.ko
 msm_sysstats.ko
 zsmalloc.ko
 msm_show_resume_irq.ko
@@ -244,6 +245,7 @@ lpass_cdc_va_macro_dlkm.ko
 msm_kgsl.ko
 wcd937x_slave_dlkm.ko
 camera.ko
+cameralog.ko
 msm-eva.ko
 stub_dlkm.ko
 rmnet_ctl.ko
